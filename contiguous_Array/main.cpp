@@ -1,3 +1,5 @@
+leetcode:https://leetcode.com/problems/contiguous-array/
+
 #include <bits/stdc++.h>
 #include<unordered_map>
 using namespace std;
